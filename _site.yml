@@ -1,0 +1,16 @@
+name: "aloy.rbind.io"
+title: "Adam Loy"
+description: |
+  Adam Loy
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Scholarship"
+      href: scholarship.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

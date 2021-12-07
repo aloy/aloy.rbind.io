@@ -1,0 +1,21 @@
+---
+title: "About me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I grew up in central Maryland, and lived in Iowa and Wisconsin before moving to Minnesota.
+
+Things I enjoy include:
+
+- Keeping up with my three kids. 
+
+- Going to the dog park with my golden retriever, Beary.
+
+- Reading. Right now I'm on a Sci-Fi and Fantasy kick. I really enjoy Brandon Sanderson's work, but I'm not sure I can pin down a favorite author.
+
+- Woodworking (though I rarely actually do this!)
+
+- Telling myself I'll start playing my trumpet again after more than a decade away (Maybe this will be the year I actually do it!)

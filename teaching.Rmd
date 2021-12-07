@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I teach statistics and data science courses at all levels at Carleton, and I strive to equip my students with the skills to learn from data so that they can make informed decisions in the presence of uncertainty.
+
+
+### 2021-2022 academic year
+
+#### Fall 
+
+- Stat 220: Introduction to data science
+- Stat 340: Bayesian statistics
+
+#### Winter
+
+- Stat 120: Introduction to statistics
+- Stat 250: Statistical inference
+
+#### Spring
+
+I am not scheduled to teach this spring

@@ -1,0 +1,32 @@
+---
+title: "Adam Loy"
+image: "adamloy.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/aloy"
+  - label: CV
+    url: ""
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+### Bio
+
+I’m an Assistant Professor of Statistics in the [Department of Mathematics and Statistics](https://www.carleton.edu/math/) at [Carleton College](https://www.carleton.edu). I teach statistics at all levels of the curriculum and am passionate about communicating the beauty and power of modern statistical methods to my students. My research focuses on incorporating realistic computation and visualization into the classroom, exploring the potential of visual inference, developing better visualizations to explore complex models, and developing useful and useable R packages.
+
+<br>
+
+### Education
+
+Iowa State University | Ames, IA
+
+- Ph.D. in Statistics | 2013
+
+- M.S. in Statistics | 2009
+
+Luther College | Decorah, IA
+
+- B.A. in Mathematics/Statistics | 2007
