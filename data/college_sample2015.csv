@@ -1,0 +1,180 @@
+"unitid","college","type","city","state","region","admissionRate","ACTmath","ACTenglish","undergrads","cost","gradRate","FYretention","fedloan","debt"
+110316,"California Institute of Integral Studies","private","San Francisco","CA","Far West",NA,NA,NA,75,NA,NA,NA,0.828,18750
+120184,"Notre Dame de Namur University","private","Belmont","CA","Far West",0.872,21,19,1209,47115,0.4792,0.7692,0.672,27000
+119173,"Mount St Mary's College","private","Los Angeles","CA","Far West",0.7409,NA,NA,2617,47905,0.6379,0.7923,0.9203,25000
+237057,"Whitman College","private","Walla Walla","WA","Far West",0.5696,NA,NA,1525,54865,0.8775,0.9396,0.3587,15990
+102669,"Alaska Pacific University","private","Anchorage","AK","Far West",0.3745,21,21,340,42925,0.3902,0.6667,0.4587,25125
+122931,"Santa Clara University","private","Santa Clara","CA","Far West",0.5122,NA,NA,5404,57213,0.8401,0.9498,0.3726,20500
+437316,"Linfield College-School of Nursing","private","Portland","OR","Far West",NA,NA,NA,344,NA,NA,NA,0.8338,25000
+116846,"American Jewish University","private","Los Angeles","CA","Far West",0.59,NA,NA,109,46466,0.8125,0.8333,0.35,23250
+115773,"Humphreys College-Stockton and Modesto Campuses","private","Stockton","CA","Far West",NA,NA,NA,757,21029,0.931,0.6923,0.922,29168
+117104,"Life Pacific College","private","San Dimas","CA","Far West",0.7482,20,19,475,24492,0.5111,0.6279,0.5427,20600
+209287,"Multnomah University","private","Portland","OR","Far West",0.538,NA,NA,438,33878,0.4714,0.6667,0.7117,25000
+117946,"Loyola Marymount University","private","Los Angeles","CA","Far West",0.5412,26,28,6087,55432,0.7583,0.9144,0.4747,22299.5
+141565,"University of Hawaii at Hilo","public","Hilo","HI","Far West",0.752,21,21,3335,15284,0.3642,0.6982,0.4574,19264
+234827,"Central Washington University","public","Ellensburg","WA","Far West",0.8216,20,20,9958,21401,0.5132,0.7387,0.5472,21267
+110583,"California State University-Long Beach","public","Long Beach","CA","Far West",0.3082,22,21,30440,18085,0.6033,0.8876,0.393,15775
+377564,"University of Washington-Tacoma Campus","public","Tacoma","WA","Far West",0.8523,20,19,3587,22185,0.4943,0.7771,0.5181,16326
+110574,"California State University-East Bay","public","Hayward","CA","Far West",0.6872,20,18,12079,20676,0.3808,0.7753,0.3844,16312
+209542,"Oregon State University","public","Corvallis","OR","Far West",0.7894,25,24,22349,22974,0.6147,0.8415,0.5162,23166
+203757,"Lourdes University","private","Sylvania","OH","Great Lakes",0.6932,NA,NA,1747,27429,0.3592,0.622,0.823,32650
+143084,"Augustana College","private","Rock Island","IL","Great Lakes",0.5867,NA,NA,2504,45364,0.784,0.8506,0.588,27000
+239017,"Lawrence University","private","Appleton","WI","Great Lakes",0.7269,NA,NA,1517,50570,0.8174,0.879,0.5738,27050
+152600,"Valparaiso University","private","Valparaiso","IN","Great Lakes",0.7969,26,26,3209,43185,0.7013,0.8636,0.601,27000
+206491,"Wilberforce University","private","Wilberforce","OH","Great Lakes",0.5834,NA,NA,463,24400,0.1289,0.7414,0.9486,29750
+170532,"Kalamazoo College","private","Kalamazoo","MI","Great Lakes",0.6689,28,28,1427,48547,0.7741,0.9192,0.5149,27000
+239080,"Marian University","private","Fond Du Lac","WI","Great Lakes",0.7561,20,19,1676,33656,0.4887,0.682,0.6489,27000
+145691,"Illinois College","private","Jacksonville","IL","Great Lakes",0.6129,22,22,981,36829,0.6357,0.8134,0.768,27000
+152080,"University of Notre Dame","private","Notre Dame","IN","Great Lakes",0.223,NA,NA,8466,57805,0.9486,0.9861,0.4142,21000
+238458,"Carroll University","private","Waukesha","WI","Great Lakes",0.8114,24,24,3024,37963,0.5629,0.7598,0.7108,27000
+151801,"Indiana Wesleyan University","private","Marion","IN","Great Lakes",0.9515,24,25,10625,33770,0.655,0.7776,0.6958,24806.5
+238573,"Columbia College of Nursing","private","Glendale","WI","Great Lakes",NA,NA,NA,157,NA,NA,NA,0.9938,18454.5
+148584,"University of St Francis","private","Joliet","IL","Great Lakes",0.5141,23,23,1757,36226,0.5657,0.7909,0.7678,25000
+146612,"Lewis University","private","Romeoville","IL","Great Lakes",0.5587,24,24,4489,34079,0.6246,0.8172,0.6674,25000
+202763,"The University of Findlay","private","Findlay","OH","Great Lakes",0.6832,24,23,2663,38941,0.564,0.7619,0.4915,23250
+146533,"Lakeview College of Nursing","private","Danville","IL","Great Lakes",NA,NA,NA,284,NA,NA,NA,0.6372,18750
+203845,"Marietta College","private","Marietta","OH","Great Lakes",0.6387,24,22,1390,42205,0.5529,0.715,0.7122,27000
+239071,"Maranatha Baptist University","private","Watertown","WI","Great Lakes",0.7146,24,21,780,23879,0.4843,0.7204,0.6932,18004
+202480,"University of Dayton","private","Dayton","OH","Great Lakes",0.5297,26,27,7812,46250,0.7674,0.8858,0.6791,26863
+238980,"Lakeland College","private","Plymouth","WI","Great Lakes",0.6621,21,20,2449,32706,0.5083,0.6954,0.6363,27000
+151342,"Indiana University-South Bend","public","South Bend","IN","Great Lakes",0.7003,21,19,5538,17377,0.258,0.6346,0.4083,25724
+240426,"University of Wisconsin-Superior","public","Superior","WI","Great Lakes",0.8927,21,21,2415,16953,0.4111,0.6565,0.6531,23500
+201885,"University of Cincinnati-Main Campus","public","Cincinnati","OH","Great Lakes",0.7325,26,25,23360,25799,0.579,0.8462,0.5545,23947.5
+144005,"Chicago State University","public","Chicago","IL","Great Lakes",0.2865,18,18,4321,18472,0.207,0.5361,0.8495,27499
+148654,"University of Illinois at Springfield","public","Springfield","IL","Great Lakes",0.5977,23,24,2959,21385,0.4308,0.7435,0.5521,19498
+152248,"Purdue University-Calumet Campus","public","Hammond","IN","Great Lakes",0.6063,22,22,7466,16727,0.3131,0.6876,0.4291,22781
+169248,"Central Michigan University","public","Mount Pleasant","MI","Great Lakes",0.6304,22,22,20070,21523,0.5929,0.7671,0.7469,27000
+130989,"Goldey-Beacom College","private","Wilmington","DE","Mid East",0.5231,NA,NA,548,32255,0.4255,0.5506,0.568,24375
+210739,"DeSales University","private","Center Valley","PA","Mid East",0.758,22,23,2482,45331,0.7033,0.8509,0.6649,27000
+195128,"The Sage Colleges","private","Troy","NY","Mid East",0.5664,NA,NA,1661,40437,0.5802,0.7837,0.7898,22408.5
+163532,"Ner Israel Rabbinical College","private","Baltimore","MD","Mid East",0.8154,NA,NA,340,20300,0.3061,0.7941,0,NA
+245731,"Yeshiva and Kollel Harbotzas Torah","private","Brooklyn","NY","Mid East",NA,NA,NA,25,NA,NA,NA,0,NA
+216366,"Thomas Jefferson University","private","Philadelphia","PA","Mid East",NA,NA,NA,664,NA,NA,NA,0.6208,12500
+210775,"Alvernia University","private","Reading","PA","Mid East",0.7762,NA,NA,2169,39999,0.5132,0.7105,0.6131,27000
+183974,"Centenary College","private","Hackettstown","NJ","Mid East",0.9094,NA,NA,1708,44586,0.5673,0.7091,0.5817,25000
+163295,"Maryland Institute College of Art","private","Baltimore","MD","Mid East",0.5803,NA,NA,1892,52649,0.7273,0.8257,0.6126,27000
+183910,"Caldwell College","private","Caldwell","NJ","Mid East",0.6408,NA,NA,1570,38223,0.5345,0.7301,0.836,26499
+196431,"Talmudical Seminary Oholei Torah","private","Brooklyn","NY","Mid East",1,NA,NA,321,17708,0.0667,0.7042,0,NA
+184603,"Fairleigh Dickinson University-Metropolitan Campus","private","Teaneck","NJ","Mid East",0.7341,NA,NA,3915,43227,0.465,0.7208,0.3668,25000
+213367,"La Salle University","private","Philadelphia","PA","Mid East",0.8021,NA,NA,4228,47134,0.6443,0.825,0.6918,27000
+213251,"Juniata College","private","Huntingdon","PA","Mid East",0.7409,NA,NA,1503,47269,0.7507,0.8781,0.6893,27000
+213543,"Lehigh University","private","Bethlehem","PA","Mid East",0.3084,NA,NA,4904,55441,0.8584,0.9392,0.4495,24750
+215442,"Point Park University","private","Pittsburgh","PA","Mid East",0.7393,21,23,3164,36726,0.4978,0.7558,0.7719,27000
+131113,"Wilmington University","private","New Castle","DE","Mid East",NA,NA,NA,8475,16978,0.3897,0.6393,0.4817,18192
+190114,"Metropolitan College of New York","private","New York","NY","Mid East",0.5487,NA,NA,911,28391,0.2444,0.5224,0.8165,34375
+131308,"Corcoran College of Art and Design","private","Washington","DC","Mid East",0.2712,NA,NA,275,47459,0.5273,0.9024,0.5337,27000
+211440,"Carnegie Mellon University","private","Pittsburgh","PA","Mid East",0.2549,32,32,5834,59710,0.8799,0.9422,0.3964,25000
+189273,"Beth Hamedrash Shaarei Yosher Institute","private","Brooklyn","NY","Mid East",1,NA,NA,49,12900,0.0833,0.3125,0,NA
+197133,"Vassar College","private","Poughkeepsie","NY","Mid East",0.2411,NA,NA,2436,59320,0.9365,0.9559,0.3716,17545
+192749,"Manhattanville College","private","Purchase","NY","Mid East",0.7674,NA,NA,1671,49907,0.5832,0.7524,0.6377,26000
+193399,"College of Mount Saint Vincent","private","Bronx","NY","Mid East",0.731,19,19,1635,37738,0.5152,0.6687,0.9077,28500
+190150,"Columbia University in the City of New York","private","New York","NY","Mid East",0.0742,32,34,7970,61540,0.9329,0.9734,0.2659,19435
+186399,"Rutgers University-Newark","public","Newark","NJ","Mid East",0.5401,NA,NA,6748,22046,0.6752,0.7422,0.5501,22250
+185262,"Kean University","public","Union","NJ","Mid East",0.8037,NA,NA,11975,19462,0.4623,0.7364,0.6133,24000
+214777,"Pennsylvania State University-Main Campus","public","University Park","PA","Mid East",0.542,28,27,39460,31625,0.8484,0.9236,0.522,27000
+196167,"SUNY College at Geneseo","public","Geneseo","NY","Mid East",0.4566,NA,NA,5463,21004,0.7794,0.9025,0.4918,20500
+187134,"The College of New Jersey","public","Ewing","NJ","Mid East",0.4311,NA,NA,6446,28943,0.8443,0.9347,0.5193,23196
+185828,"New Jersey Institute of Technology","public","Newark","NJ","Mid East",0.6547,26,24,6449,26700,0.5767,0.8603,0.4698,21182.5
+215266,"University of Pittsburgh-Bradford","public","Bradford","PA","Mid East",0.8532,21,21,1456,23732,0.5189,0.7,0.7833,26896.5
+190567,"CUNY City College","public","New York","NY","Mid East",0.341,NA,NA,11820,14041,0.4201,0.8747,0.1914,12500
+162007,"Bowie State University","public","Bowie","MD","Mid East",0.5176,18,18,4313,18581,0.3524,0.7023,0.6808,23320
+190691,"CUNY York College","public","Jamaica","NY","Mid East",0.351,NA,NA,7361,13967,0.2635,0.7415,0.1087,10000
+128744,"University of Bridgeport","private","Bridgeport","CT","New England",0.6385,20,19,2835,45640,0.281,0.6361,0.7347,28250
+165529,"Curry College","private","Milton","MA","New England",0.6692,19,18,2794,47519,0.4502,0.7021,0.6274,26000
+230995,"Norwich University","private","Northfield","VT","New England",0.6349,NA,NA,2432,47341,0.5672,0.7496,0.6959,27000
+167260,"Nichols College","private","Dudley","MA","New England",0.8047,21,20,1260,44886,0.4656,0.6939,0.876,27000
+160959,"College of the Atlantic","private","Bar Harbor","ME","New England",0.7367,NA,NA,356,48639,0.6905,0.8056,0.5421,19000
+166984,"School of the Museum of Fine Arts-Boston","private","Boston","MA","New England",0.7681,NA,NA,340,52303,0.6,0.7195,0.5808,25125
+182980,"New England College","private","Henniker","NH","New England",0.8997,NA,NA,1465,46261,0.3979,0.616,0.7249,27000
+167677,"Saint John's Seminary","private","Brighton","MA","New England",1,NA,NA,35,NA,NA,NA,0,NA
+161572,"Unity College","private","Unity","ME","New England",0.8882,NA,NA,553,34137,0.5141,0.7667,0.8585,27000
+164465,"Amherst College","private","Amherst","MA","New England",0.1428,32,33,1785,59060,0.9578,0.9762,0.1321,11185.5
+130314,"University of Saint Joseph","private","West Hartford","CT","New England",0.857,NA,NA,971,42885,0.5212,0.7707,0.7711,27000
+231059,"Saint Michael's College","private","Colchester","VT","New England",0.7511,25,26,1941,48894,0.7481,0.8787,0.7463,27000
+436818,"University of Connecticut-Tri-Campus","public","Waterbury","CT","New England",0.4207,NA,NA,2382,13099,0.5029,0.8434,0.4705,21500
+230834,"Castleton State College","public","Castleton","VT","New England",0.9205,20,19,2022,20799,0.5149,0.7447,0.7801,25596
+217484,"University of Rhode Island","public","Kingston","RI","New England",0.7871,NA,NA,13008,26262,0.6344,0.8128,0.7029,23250
+129215,"Eastern Connecticut State University","public","Willimantic","CT","New England",0.6453,21,22,4920,22633,0.508,0.781,0.6099,23000
+242662,"Inter American University of Puerto Rico-Ponce","private","Mercedita","PR","Outlying Areas",0.5307,NA,NA,5353,10884,0.3068,0.7869,0.2217,8500
+242705,"Inter American University of Puerto Rico-Bayamon","private","Bayamon","PR","Outlying Areas",0.4439,NA,NA,4681,10413,0.2372,0.7609,0.221,8500
+243346,"Universidad Del Este","private","Carolina","PR","Outlying Areas",NA,NA,NA,12287,14375,0.1996,0.701,0.3751,6555
+243179,"University of Puerto Rico-Humacao","public","Humacao","PR","Outlying Areas",0.4487,NA,NA,3383,11686,0.4343,0.868,0.0783,5000
+174127,"Minneapolis College of Art and Design","private","Minneapolis","MN","Plains",0.5895,21,24,683,41935,0.5959,0.7009,0.8781,27000
+181376,"Nebraska Christian College","private","Papillion","NE","Plains",NA,NA,NA,150,22658,0.2444,0.5714,0.8248,27000
+154721,"Bethany College","private","Lindsborg","KS","Plains",0.5882,21,20,604,34042,0.3906,0.6412,0.7313,27000
+153241,"Divine Word College","private","Epworth","IA","Plains",1,NA,NA,89,17945,0.4444,0.8182,0.3396,NA
+178697,"College of the Ozarks","private","Point Lookout","MO","Plains",0.1301,22,23,1513,26813,0.6454,0.8601,0,NA
+153320,"Faith Baptist Bible College and Theological Seminary","private","Ankeny","IA","Plains",0.6693,20,23,220,24930,0.5934,0.7021,0.5709,18456
+179043,"Rockhurst University","private","Kansas City","MO","Plains",0.7543,25,26,1682,40582,0.6921,0.8744,0.5954,20162.5
+200156,"University of Jamestown","private","Jamestown","ND","Plains",0.5689,22,21,923,27712,0.5227,0.6109,0.6554,27000
+178369,"Missouri Valley College","private","Marshall","MO","Plains",0.2218,20,19,1411,28754,0.2494,0.436,0.6479,26800
+155070,"Barclay College","private","Haviland","KS","Plains",0.5285,19,19,233,24990,0.5946,0.575,0.764,19045
+174844,"St Olaf College","private","Northfield","MN","Plains",0.5919,28,30,3079,50550,0.8708,0.9352,0.5255,26531
+173142,"Bethany Lutheran College","private","Mankato","MN","Plains",0.7458,23,22,552,32531,0.4943,0.7206,0.7575,25000
+200484,"Trinity Bible College","private","Ellendale","ND","Plains",NA,NA,NA,195,24764,0.3667,0.65,0.8414,26500
+179566,"Missouri State University-Springfield","public","Springfield","MO","Plains",0.851,23,24,15746,19117,0.5337,0.7525,0.5083,22375
+178411,"Missouri University of Science and Technology","public","Rolla","MO","Plains",0.8215,28,28,6064,22102,0.6257,0.8262,0.5401,25000
+200226,"Mayville State University","public","Mayville","ND","Plains",NA,NA,NA,763,15452,0.3596,0.5592,0.5434,21652
+178615,"Truman State University","public","Kirksville","MO","Plains",0.7219,26,28,5482,19689,0.7168,0.874,0.437,21894
+175272,"Winona State University","public","Winona","MN","Plains",0.6075,23,22,8079,20449,0.5646,0.783,0.6431,24000
+142461,"Northwest Nazarene University","private","Nampa","ID","Rocky Mountains",0.617,23,25,1251,34498,0.4909,0.7603,0.6407,26050
+127653,"Naropa University","private","Boulder","CO","Rocky Mountains",0.7975,NA,NA,380,42575,0.4091,0.5833,0.5821,25000
+142285,"University of Idaho","public","Moscow","ID","Rocky Mountains",0.6565,23,23,8539,19700,0.5381,0.7861,0.5423,25000
+128106,"Colorado State University-Pueblo","public","Pueblo","CO","Rocky Mountains",0.9434,20,20,4375,18007,0.3306,0.6263,0.5624,21199
+128391,"Western State Colorado University","public","Gunnison","CO","Rocky Mountains",0.932,21,21,1956,18875,0.4242,0.6837,0.2279,20497.5
+199458,"Mid-Atlantic Christian University","private","Elizabeth City","NC","Southeast",0.4107,NA,NA,161,24257,0.5862,0.5429,0.8733,32445
+221971,"Union University","private","Jackson","TN","Southeast",0.7412,24,27,2565,40415,0.6364,0.9382,0.5108,23438
+237640,"Ohio Valley University","private","Vienna","WV","Southeast",0.3639,21,21,394,27759,0.3645,0.64,0.783,23000
+197984,"Belmont Abbey College","private","Belmont","NC","Southeast",0.6759,21,21,1634,39328,0.381,0.65,0.7966,27000
+414823,"Johnson & Wales University-North Miami","private","North Miami","FL","Southeast",0.6496,NA,NA,1937,38974,0.4627,0.6969,0.8251,27000
+107600,"Philander Smith College","private","Little Rock","AR","Southeast",NA,NA,NA,554,24877,0.4462,0.5432,0.8784,31000
+137272,"Saint John Vianney College Seminary","private","Miami","FL","Southeast",1,NA,NA,77,32000,0.6667,0.8182,0,NA
+102377,"Tuskegee University","private","Tuskegee","AL","Southeast",0.3511,19,20,2584,32853,0.4384,0.7242,0.7374,33250
+141060,"Spelman College","private","Atlanta","GA","Southeast",0.3802,22,23,2129,41635,0.6763,0.8808,0.7646,27000
+221731,"Tennessee Wesleyan College","private","Athens","TN","Southeast",0.713,20,21,1068,28119,0.4444,0.6055,0.6667,21000
+102058,"Selma University","private","Selma","AL","Southeast",NA,NA,NA,447,11187,0.2133,0.4202,0.7679,NA
+444778,"New Life Theological Seminary","private","Charlotte","NC","Southeast",NA,NA,NA,122,24685,0.4,0,0.8224,NA
+156286,"Bellarmine University","private","Louisville","KY","Southeast",0.9478,24,25,2508,47609,0.6649,0.797,0.5722,25000
+232265,"Hampton University","private","Hampton","VA","Southeast",0.3605,21,21,3529,32358,0.6751,0.7554,0.2978,27474
+232885,"Sentara College of Health Sciences","private","Chesapeake","VA","Southeast",NA,NA,NA,285,NA,0.7788,NA,0.4603,20000
+198303,"Chowan University","private","Murfreesboro","NC","Southeast",0.6154,16,14,1361,32188,0.244,0.4825,0.8486,32000
+140447,"Mercer University","private","Macon","GA","Southeast",0.69,25,26,4304,46382,0.5947,0.8202,0.6878,26000
+199412,"Queens University of Charlotte","private","Charlotte","NC","Southeast",0.7686,23,23,1703,40930,0.5207,0.6994,0.6239,25000
+218399,"Morris College","private","Sumter","SC","Southeast",NA,NA,NA,822,20419,0.2644,0.5,0.9291,30175
+135726,"University of Miami","private","Coral Gables","FL","Southeast",0.4044,30,32,11246,57700,0.8169,0.9134,0.3559,21250
+198808,"Lees-McRae College","private","Banner Elk","NC","Southeast",0.6648,NA,NA,888,37299,0.3842,0.5989,0.7515,21000
+136950,"Rollins College","private","Winter Park","FL","Southeast",0.5889,26,28,2608,56309,0.6705,0.834,0.5177,27000
+218919,"Voorhees College","private","Denmark","SC","Southeast",0.5051,NA,NA,536,24486,0.3303,0.4628,0.8841,25000
+217998,"Erskine College","private","Due West","SC","Southeast",0.6973,22,21,574,45198,0.5644,0.8321,0.6173,27000
+157809,"Thomas More College","private","Crestview Hills","KY","Southeast",0.8775,22,23,1208,36843,0.5703,0.5977,0.5357,27000
+198862,"Livingstone College","private","Salisbury","NC","Southeast",0.7122,16,12,1172,25050,0.2036,0.5296,0.9334,40000
+218973,"Wofford College","private","Spartanburg","SC","Southeast",0.688,25,26,1610,47856,0.8156,0.895,0.412,24000
+159373,"Louisiana State University Health Sciences Center-New Orleans","public","New Orleans","LA","Southeast",NA,NA,NA,915,NA,NA,NA,0.5177,16229
+218229,"Lander University","public","Greenwood","SC","Southeast",0.4216,20,19,2750,21628,0.515,0.6138,0.6743,26780
+198507,"Elizabeth City State University","public","Elizabeth City","NC","Southeast",0.5715,18,17,2276,10620,0.4159,0.7247,0.7652,24886
+237950,"West Virginia University Institute of Technology","public","Montgomery","WV","Southeast",0.5131,20,22,1133,14465,0.2024,0.5316,0.5113,23808
+132903,"University of Central Florida","public","Orlando","FL","Southeast",0.4894,NA,NA,50919,19815,0.6724,0.8711,0.4547,18500
+159391,"Louisiana State University and Agricultural & Mechanical College","public","Baton Rouge","LA","Southeast",0.7623,25,26,23990,20422,0.6914,0.8249,0.3532,19500
+237899,"West Virginia State University","public","Institute","WV","Southeast",0.4478,19,20,2195,13756,0.1868,0.5176,0.5265,23787.5
+217882,"Clemson University","public","Clemson","SC","Southeast",0.5787,NA,NA,16801,27944,0.8253,0.9194,0.4174,22388.5
+218663,"University of South Carolina-Columbia","public","Columbia","SC","Southeast",0.606,26,27,23987,23685,0.7268,0.8738,0.4922,22500
+218061,"Francis Marion University","public","Florence","SC","Southeast",0.5667,19,19,3380,19965,0.4059,0.6683,0.7148,31251
+219602,"Austin Peay State University","public","Clarksville","TN","Southeast",0.8595,22,20,9271,18852,0.3603,0.6618,0.5866,25000
+137351,"University of South Florida-Main Campus","public","Tampa","FL","Southeast",0.4524,26,26,30376,19299,0.6321,0.8878,0.4783,19735
+237932,"West Liberty University","public","West Liberty","WV","Southeast",0.7122,20,21,2412,18406,0.4148,0.677,0.6177,24624
+198543,"Fayetteville State University","public","Fayetteville","NC","Southeast",0.5496,18,17,5077,13188,0.3215,0.7133,0.7136,21232
+134130,"University of Florida","public","Gainesville","FL","Southeast",0.4655,28,29,32346,20456,0.8654,0.9646,0.3506,15132.5
+436614,"International Baptist College and Seminary","private","Chandler","AZ","Southwest",NA,NA,NA,43,24192,0.5556,0.5,0.2407,NA
+206835,"Oklahoma Wesleyan University","private","Bartlesville","OK","Southwest",0.4934,21,20,1110,32241,0.5688,0.5036,0.8123,23166
+105899,"Arizona Christian University","private","Phoenix","AZ","Southwest",0.6076,22,22,491,34444,0.4737,0.6809,0.5183,22625
+247825,"Austin Graduate School of Theology","private","Austin","TX","Southwest",NA,NA,NA,28,NA,NA,NA,0.5263,NA
+104665,"Frank Lloyd Wright School of Architecture","private","Scottsdale","AZ","Southwest",NA,NA,NA,2,NA,NA,NA,0.3333,NA
+417752,"Messenger College","private","Euless","TX","Southwest",0.7619,NA,NA,47,17578,0.1579,0.4,0.7,NA
+207856,"Southwestern Christian University","private","Bethany","OK","Southwest",0.884,21,18,801,22983,0.2973,0.5158,0.7856,23316
+229115,"Texas Tech University","public","Lubbock","TX","Southwest",0.663,25,24,26809,20900,0.5904,0.8233,0.4932,23246.5
+207342,"University of Oklahoma-Health Sciences Center","public","Oklahoma City","OK","Southwest",NA,NA,NA,818,NA,NA,NA,0.6377,20000
+206914,"Cameron University","public","Lawton","OK","Southwest",NA,NA,NA,5043,14852,0.2025,0.604,0.4073,18602.5
+420574,"Arizona State University-Polytechnic","public","Mesa","AZ","Southwest",0.7479,25,23,3305,21256,0.5505,0.8378,0.5658,20375
+207041,"East Central University","public","Ada","OK","Southwest",0.9814,19,20,3757,13735,0.3384,0.6252,0.4532,19500
+225432,"University of Houston-Downtown","public","Houston","TX","Southwest",0.9509,19,17,13297,18879,0.1408,0.6309,0.4419,21000
+227526,"Prairie View A & M University","public","Prairie View","TX","Southwest",0.4232,19,17,6731,16782,0.3652,0.6788,0.7982,29052
