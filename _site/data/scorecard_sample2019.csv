@@ -1,0 +1,188 @@
+unitid,school,type,city,state,region,admission_rate,act,undergrads,cost,grad_rate,fy_retention,fedloan
+228343,Southwestern University,private,Georgetown,TX,Southwest,0.4903,26,1507,55886,0.6945,0.8571,0.5105
+177719,Barnes-Jewish College Goldfarb School of Nursing,private,Saint Louis,MO,Plains,NA,NA,569,NA,NA,NA,0.8185
+367884,Hodges University,private,Fort Myers,FL,Southeast,0.6121,NA,832,27425,0.2621,0.4783,0.6213
+149781,Wheaton College,private,Wheaton,IL,Great Lakes,0.8481,29,2358,49214,0.8878,0.9262,0.4902
+135364,Luther Rice College & Seminary,private,Lithonia,GA,Southeast,0.5,NA,235,NA,0.5,NA,0.5529
+212601,Gannon University,private,Erie,PA,Mid East,0.7552,23,2866,44896,0.677,0.8217,0.5524
+133979,Florida Memorial University,private,Miami Gardens,FL,Southeast,0.3999,NA,1049,27460,0.3644,0.6355,0.6755
+117140,University of La Verne,private,La Verne,CA,Far West,0.5482,22,4516,58014,0.7325,0.8179,0.6186
+152567,Trine University,private,Angola,IN,Great Lakes,0.8157,25,2120,46440,0.6334,0.7551,0.3542
+237057,Whitman College,private,Walla Walla,WA,Far West,0.5592,31,1545,68082,0.8977,0.8944,0.402
+488679,Indiana Wesleyan University-National & Global,private,Marion,IN,Great Lakes,NA,NA,6859,27500,0.382,NA,0.6038
+214883,Peirce College,private,Philadelphia,PA,Mid East,NA,NA,1084,18260,0.4167,0.5,0.7298
+155973,Tabor College,private,Hillsboro,KS,Plains,0.5591,20,519,43760,0.4277,0.5521,0.7165
+162210,Washington Adventist University,private,Takoma Park,MD,Mid East,0.5877,20,819,32262,0.408,0.6,0.6365
+157377,Midway University,private,Midway,KY,Southeast,0.5964,21,1117,40606,0.443,0.6863,0.6972
+209612,Pacific University,private,Forest Grove,OR,Far West,0.8661,23,1768,59490,0.6874,0.8052,0.8358
+492962,Indiana Institute of Technology-College of Professional Studies,private,Fort Wayne,IN,Great Lakes,NA,NA,3905,22379,0.1593,0.4337,0.7741
+217721,Benedict College,private,Columbia,SC,Southeast,0.7677,17,2034,27927,0.2445,0.556,0.7782
+150145,Bethel University,private,Mishawaka,IN,Great Lakes,0.9376,22,1174,39577,0.6747,0.6441,0.6405
+439446,Atlantic Institute of Oriental Medicine,private,Fort Lauderdale,FL,Southeast,NA,NA,39,NA,NA,NA,0.8857
+203085,Heidelberg University,private,Tiffin,OH,Great Lakes,0.7483,21,1042,43809,0.5086,0.7173,0.8304
+392840,Watkins College of Art Design & Film,private,Nashville,TN,Southeast,0.5818,22,150,37876,0.4182,0.5714,0.5924
+173902,Macalester College,private,Saint Paul,MN,Plains,0.3227,31,2079,68627,0.9079,0.934,0.4609
+188641,Alfred University,private,Alfred,NY,Mid East,0.6245,23,1668,44856,0.5738,0.7277,0.7211
+227757,Rice University,private,Houston,TX,Southwest,0.0872,34,3978,65150,0.9261,0.9769,0.1295
+213321,King's College,private,Wilkes-Barre,PA,Mid East,0.8094,NA,2092,51077,0.636,0.7205,0.7074
+117575,Southern California Seminary,private,El Cajon,CA,Far West,NA,NA,43,36213,0,1,0.36
+237312,University of Charleston,private,Charleston,WV,Southeast,0.5004,22,1893,43042,0.3838,0.6486,0.456
+102058,Selma University,private,Selma,AL,Southeast,NA,NA,310,12510,0.0179,0.3265,0.9598
+174437,North Central University,private,Minneapolis,MN,Plains,0.8989,21,955,36349,0.5122,0.8,0.6407
+129534,Holy Apostles College and Seminary,private,Cromwell,CT,New England,NA,NA,174,12820,NA,1,0.2349
+231420,Averett University,private,Danville,VA,Southeast,0.6495,18,884,46388,0.4213,0.6838,0.7586
+105899,Arizona Christian University,private,Glendale,AZ,Southwest,0.6793,18,803,39360,0.5,0.5621,0.5696
+165167,Cambridge College,private,Boston,MA,New England,NA,NA,698,30088,0.0833,0.2222,0.6
+207458,Oklahoma City University,private,Oklahoma City,OK,Southwest,0.7464,26,1583,43184,0.6441,0.8311,0.4956
+204264,Muskingum University,private,New Concord,OH,Great Lakes,0.8062,21,1505,41121,0.5274,0.7236,0.7843
+192749,Manhattanville College,private,Purchase,NY,Mid East,0.9025,NA,1504,51842,0.6043,0.699,0.4881
+140553,Morehouse College,private,Atlanta,GA,Southeast,0.998,20,2238,48406,0.5424,0.8295,0.6591
+475200,Whitworth University-Adult Degree Programs,private,Spokane,WA,Far West,1,NA,275,NA,NA,NA,0.7143
+168591,Alma College,private,Alma,MI,Great Lakes,0.6238,23,1412,54024,0.6684,0.7723,0.7348
+117751,The Master's University and Seminary,private,Santa Clarita,CA,Far West,0.6712,NA,1134,40402,0.6968,0.8649,0.4828
+242699,Inter American University of Puerto Rico-Guayama,private,Guayama,PR,Outlying Areas,0.4623,NA,1640,13665,0.3754,0.7799,0.372
+215743,Saint Francis University,private,Loretto,PA,Mid East,0.7454,23,1647,52663,0.7323,0.8546,0.5442
+204468,Notre Dame College,private,Cleveland,OH,Great Lakes,0.9754,19,1333,43696,0.3746,0.596,0.6607
+107080,Hendrix College,private,Conway,AR,Southeast,0.6996,29,1104,62983,0.7074,0.8867,0.4825
+177542,Hannibal-LaGrange University,private,Hannibal,MO,Plains,0.61240000000000006,22,605,34441,0.408,0.6111,0.4944
+459727,Touro University Worldwide,private,Los Alamitos,CA,Far West,NA,NA,497,29313,1,0.7143,0.4892
+195438,Sh'or Yoshuv Rabbinical College,private,Lawrence,NY,Mid East,0.6667,NA,162,NA,0.0833,1,0
+123651,Vanguard University of Southern California,private,Costa Mesa,CA,Far West,0.4945,21,1914,46807,0.5872,0.7603,0.8711
+230852,Champlain College,private,Burlington,VT,New England,0.8515,27,3605,59199,0.6492,0.8246,0.5321
+216311,Talmudical Yeshiva of Philadelphia,private,Philadelphia,PA,Mid East,0.7547,NA,130,19600,0.6216,0.9167,0
+446604,Uta Mesivta of Kiryas Joel,private,Monroe,NY,Mid East,NA,NA,2016,19520,0.7632,0.9694,0
+192864,Marymount Manhattan College,private,New York,NY,Mid East,0.7955,24,1843,56343,0.5315,0.6943,0.6457
+228981,Texas Lutheran University,private,Seguin,TX,Southwest,0.5575,22,1407,41662,0.5549,0.7308,0.6244
+189413,Boricua College,private,New York,NY,Mid East,NA,NA,630,20732,0.789,0.5,0.1518
+213826,Marywood University,private,Scranton,PA,Mid East,0.7776,26,1732,47281,0.6766,0.8608,0.7042
+141486,Chaminade University of Honolulu,private,Honolulu,HI,Far West,0.9467,21,1558,36765,0.5932,0.8587,0.3785
+164632,Bay Path University,private,Longmeadow,MA,New England,0.7177,22,1800,46516,0.5441,0.6818,0.8653
+166850,Merrimack College,private,North Andover,MA,New England,0.819,NA,3956,57794,0.7465,0.8307,0.6678
+112075,Concordia University-Irvine,private,Irvine,CA,Far West,0.7081,22,1723,50332,0.6327,0.7273,0.6051
+195234,The College of Saint Rose,private,Albany,NY,Mid East,0.8747,NA,2409,48093,0.6126,0.6992,0.7276
+101541,Judson College,private,Marion,AL,Southeast,0.3724,19,245,32691,0.3636,0.5968,0.694
+147013,McKendree University,private,Lebanon,IL,Great Lakes,0.6335,24,1764,42941,0.6,0.7508,0.5373
+183275,Thomas More College of Liberal Arts,private,Merrimack,NH,New England,0.9362,NA,88,33111,0.6429,0.9583,0.6444
+160904,Xavier University of Louisiana,private,New Orleans,LA,Southeast,0.5998,23,2498,35636,0.5148,0.7024,0.6676
+145691,Illinois College,private,Jacksonville,IL,Great Lakes,0.7804,NA,1044,43511,0.6269,0.7816,0.8759
+190248,Concordia College,private,Bronxville,NY,Mid East,0.9383,20,1250,41489,0.4575,0.6395,0.4943
+164270,McDaniel College,private,Westminster,MD,Mid East,0.9184,NA,1668,57031,0.6882,0.7735,0.6338
+162928,Johns Hopkins University,private,Baltimore,MD,Mid East,0.1117,34,5729,71901,0.9286,0.9731,0.2929
+164739,Bentley University,private,Waltham,MA,New England,0.4672,29,4157,68577,0.8952,0.9201,0.4874
+217536,Salve Regina University,private,Newport,RI,New England,0.7378,NA,2140,59263,0.7792,0.8519,0.7491
+152798,Allen College,private,Waterloo,IA,Plains,NA,NA,339,NA,1,NA,0.8363
+165699,Endicott College,private,Beverly,MA,New England,0.6931,NA,2996,51460,0.741,0.8592,0.6157
+219806,Carson-Newman University,private,Jefferson City,TN,Southeast,0.6924,24,1769,39968,0.566,0.6764,0.6263
+209241,Mount Angel Seminary,private,Saint Benedict,OR,Far West,0.8571,NA,38,37628,0.5,1,0
+161457,University of New England,private,Biddeford,ME,New England,0.8439,24,2449,55340,0.6804,0.8148,0.4774
+219709,Belmont University,private,Nashville,TN,Southeast,0.838,27,6768,52760,0.7159,0.829,0.4001
+241225,Universidad Central de Bayamon,private,Bayamn,PR,Outlying Areas,0.7725,NA,1074,15091,0.2441,0.7823,0.3025
+194569,Davis College,private,Johnson City,NY,Mid East,0.3103,NA,57,27393,0.5676,0.125,0.3817
+227331,Our Lady of the Lake University,private,San Antonio,TX,Southwest,0.6795,19,1328,39529,0.4239,0.63,0.6977
+199209,North Carolina Wesleyan College,private,Rocky Mount,NC,Southeast,0.6228,17,1822,43407,0.4069,0.671,0.7115
+456481,Polytechnic University of Puerto Rico-Miami,private,Miami,FL,Southeast,NA,NA,71,29250,0.5,1,0.726
+194958,Roberts Wesleyan College,private,Rochester,NY,Mid East,0.6658,23,1255,44599,0.6207,0.7939,0.6442
+208488,Concordia University-Portland,private,Portland,OR,Far West,0.5731,20,1564,42134,0.4364,0.7008,0.6309
+202073,Cleveland Institute of Music,private,Cleveland,OH,Great Lakes,0.366,NA,230,60075,0.8525,0.9516,0.431
+162654,Goucher College,private,Baltimore,MD,Mid East,0.813,26,1439,61294,0.6608,0.7523,0.5528
+107141,John Brown University,private,Siloam Springs,AR,Southeast,0.7577,26,1447,39802,0.7162,0.8213,0.4419
+192925,Medaille College,private,Buffalo,NY,Mid East,0.6234,NA,1438,37124,0.3824,0.6092,0.73
+141237,Truett McConnell University,private,Cleveland,GA,Southeast,0.9411,21,792,32004,0.3957,0.629,0.1751
+481438,Yeshiva Yesodei Hatorah,private,Lakewood,NJ,Mid East,0.8684,NA,61,19022,0.3043,0.7391,0
+212577,Franklin and Marshall College,private,Lancaster,PA,Mid East,0.3039,NA,2309,73032,0.851,0.9018,0.4353
+201548,Capital University,private,Columbus,OH,Great Lakes,0.7211,23,2438,48642,0.6186,0.7761,0.8424
+481401,Grace School of Theology,private,Conroe,TX,Southwest,NA,NA,223,26956,NA,1,0.073
+163976,St. John's College,private,Annapolis,MD,Mid East,0.5985,29,494,67325,0.6887,0.8595,0.4789
+212984,Holy Family University,private,Philadelphia,PA,Mid East,0.7277,20,1951,35659,0.5825,0.7309,0.698
+128744,University of Bridgeport,private,Bridgeport,CT,New England,0.5458,20,3233,50556,0.4535,0.6922,0.5859
+219718,Bethel University,private,McKenzie,TN,Southeast,0.9027,18,2355,31005,0.3176,0.6201,0.5171
+212009,Dickinson College,private,Carlisle,PA,Mid East,0.4006,NA,2098,71182,0.8291,0.872,0.4152
+197197,Wagner College,private,Staten Island,NY,Mid East,0.7074,NA,1712,60792,0.714,0.8,0.5851
+207582,Oral Roberts University,private,Tulsa,OK,Southwest,0.6829,22,3098,42624,0.555,0.814,0.5693
+226471,University of Mary Hardin-Baylor,private,Belton,TX,Southwest,0.8738,22,3333,41426,0.5119,0.6663,0.6762
+232043,Eastern Mennonite University,private,Harrisonburg,VA,Southeast,0.646,23,967,50236,0.5776,0.845,0.5923
+217624,Allen University,private,Columbia,SC,Southeast,0.5327,NA,753,24359,0.2235,0.5586,0.8881
+146755,Trinity College of Nursing & Health Sciences,private,Rock Island,IL,Great Lakes,NA,NA,157,NA,NA,NA,0.681
+120883,University of the Pacific,private,Stockton,CA,Far West,0.6561,27,3585,63482,0.7077,0.8269,0.5158
+159656,Loyola University New Orleans,private,New Orleans,LA,Southeast,0.7502,25,3043,53278,0.623,0.7826,0.5926
+181020,Doane University,private,Crete,NE,Plains,0.7141,NA,1346,48570,0.5401,0.7104,0.7746
+107877,Williams Baptist University,private,Walnut Ridge,AR,Southeast,0.5878,21,512,28664,0.391,0.4872,0.5929
+217156,Brown University,private,Providence,RI,New England,0.0707,34,6834,73892,0.9564,0.9794,0.1293
+474863,Los Angeles Pacific University,private,San Dimas,CA,Far West,NA,NA,1563,24383,0.2222,0.6667,0.7344
+207856,Southwestern Christian University,private,Bethany,OK,Southwest,0.6206,18,492,28402,0.25,0.447,0.5536
+160755,Tulane University of Louisiana,private,New Orleans,LA,Southeast,0.1287,32,7980,73112,0.8621,0.9277,0.2586
+127060,University of Denver,private,Denver,CO,Rocky Mountains,0.5871,29,5755,66983,0.767,0.8545,0.3424
+132657,Lynn University,private,Boca Raton,FL,Southeast,0.7422,24,2401,54854,0.5144,0.7063,0.3338
+196413,Syracuse University,private,Syracuse,NY,Mid East,0.4438,28,14854,70390,0.8268,0.9182,0.4203
+206154,Tri-State Bible College,private,South Point,OH,Great Lakes,NA,NA,25,NA,1,NA,0.4186
+219383,University of Sioux Falls,private,Sioux Falls,SD,Plains,0.9145,23,1349,29413,0.6383,0.769,0.7066
+198066,Brevard College,private,Brevard,NC,Southeast,0.5875,NA,743,42930,0.4,0.6504,0.7066
+184348,Drew University,private,Madison,NJ,Mid East,0.7141,NA,1577,56387,0.6942,0.8476,0.5612
+181002,Creighton University,private,Omaha,NE,Plains,0.7371,26,4431,54561,0.8117,0.8961,0.4771
+221731,Tennessee Wesleyan University,private,Athens,TN,Southeast,0.6146,22,1035,33188,0.4146,0.6968,0.6092
+198969,Methodist University,private,Fayetteville,NC,Southeast,0.6301,20,1625,55072,0.4544,0.5811,0.5198
+245892,Antioch University-Midwest,private,Yellow Springs,OH,Great Lakes,NA,NA,2,NA,NA,NA,0.6923
+175421,Belhaven University,private,Jackson,MS,Southeast,0.4941,NA,2240,35031,0.5023,0.6422,0.694
+220516,King University,private,Bristol,TN,Southeast,0.6207,23,1561,42448,0.5882,0.6489,0.6656
+239071,Maranatha Baptist University,private,Watertown,WI,Great Lakes,0.7668,23,580,26382,0.5545,0.7923,0.3635
+488101,Yeshivas Maharit D'Satmar,private,Monroe,NY,Mid East,NA,NA,114,23674,0.5714,0.9583,0
+129215,Eastern Connecticut State University,public,Willimantic,CT,New England,0.6387,NA,4425,26310,0.5705,0.7704,0.6029
+163338,University of Maryland Eastern Shore,public,Princess Anne,MD,Mid East,0.6467,18,2270,23983,0.4106,0.6188,0.6347
+196255,SUNY Downstate Health Sciences University,public,Brooklyn,NY,Mid East,NA,NA,182,NA,NA,NA,0.5024
+207306,Northwestern Oklahoma State University,public,Alva,OK,Southwest,0.6255,20,1578,16501,0.3083,0.5691,0.4766
+231712,Christopher Newport University,public,Newport News,VA,Southeast,0.7189,25,4826,30802,0.7802,0.8445,0.4624
+190512,CUNY Bernard M Baruch College,public,New York,NY,Mid East,0.4347,NA,15066,14517,0.6988,0.8906,0.0964
+377555,University of Washington-Bothell Campus,public,Bothell,WA,Far West,0.7414,24,5332,22415,0.6911,0.8295,0.2677
+221838,Tennessee State University,public,Nashville,TN,Southeast,NA,NA,5874,21684,0.3165,0.6376,0.6241
+213783,Mansfield University of Pennsylvania,public,Mansfield,PA,Mid East,0.9606,19,1564,26898,0.5096,0.7297,0.7696
+199999,Winston-Salem State University,public,Winston-Salem,NC,Southeast,0.6759,18,4530,19900,0.5124,0.7779,0.7247
+172051,Saginaw Valley State University,public,University Center,MI,Great Lakes,0.7312,22,7209,21300,0.4409,0.7414,0.5985
+171571,Oakland University,public,Rochester Hills,MI,Great Lakes,0.8305,24,15236,22252,0.5684,0.7625,0.4828
+213349,Kutztown University of Pennsylvania,public,Kutztown,PA,Mid East,0.8992,21,6858,27890,0.5408,0.7419,0.7199
+157447,Northern Kentucky University,public,Highland Heights,KY,Southeast,0.9018,23,9882,17888,0.4555,0.7209,0.4414
+160630,Southern University at New Orleans,public,New Orleans,LA,Southeast,0.6033,17,1690,13201,0.2119,0.5191,0.8247
+214801,Pennsylvania State University-Penn State Abington,public,Abington,PA,Mid East,NA,NA,0,NA,NA,NA,NA
+163453,Morgan State University,public,Baltimore,MD,Mid East,0.6784,18,6449,23867,0.4334,0.7127,0.6778
+219356,South Dakota State University,public,Brookings,SD,Plains,0.9004,23,9034,22858,0.5618,0.7832,0.5219
+196219,SUNY at Purchase College,public,Purchase,NY,Mid East,0.5151,27,3967,26982,0.6119,0.8127,0.5063
+218654,University of South Carolina Beaufort,public,Bluffton,SC,Southeast,0.6276,20,2008,24033,0.3127,0.5739,0.6144
+243133,University of Puerto Rico-Bayamon,public,Bayamon,PR,Outlying Areas,0.7815,NA,3937,9516,0.5124,0.817,0.0227
+162584,Frostburg State University,public,Frostburg,MD,Mid East,0.8014,20,4092,23810,0.4938,0.7442,0.5255
+197036,United States Military Academy,public,West  Point,NY,US Service Schools,0.1203,28,4457,NA,0.8479,0.9528,NA
+197027,United States Merchant Marine Academy,public,Kings Point,NY,US Service Schools,0.2487,29,1007,9075,0.7991,0.9234,0.0622
+228501,Sul Ross State University,public,Alpine,TX,Southwest,0.9963,17,1847,20112,0.2492,0.5233,0.4801
+204006,Miami University-Hamilton,public,Hamilton,OH,Great Lakes,NA,NA,2368,15057,0.109,0.6103,0.4385
+142328,Lewis-Clark State College,public,Lewiston,ID,Rocky Mountains,0.9976,20,2677,16389,0.3834,0.603,0.3871
+169248,Central Michigan University,public,Mount Pleasant,MI,Great Lakes,0.6951,23,14409,24656,0.6112,0.7414,0.6955
+100706,University of Alabama in Huntsville,public,Huntsville,AL,Southeast,0.8257,28,7785,23917,0.5768,0.8291,0.3976
+100830,Auburn University at Montgomery,public,Montgomery,AL,Southeast,0.9044,21,4407,19849,0.3401,0.6589,0.5391
+240417,University of Wisconsin-Stout,public,Menomonie,WI,Great Lakes,0.9054,22,7179,19657,0.5996,0.7199,0.5682
+155317,University of Kansas,public,Lawrence,KS,Plains,0.931,26,19003,25892,0.6651,0.8615,0.4175
+224554,Texas A & M University-Commerce,public,Commerce,TX,Southwest,0.4313,21,8329,22432,0.4289,0.6289,0.5065
+110705,University of California-Santa Barbara,public,Santa Barbara,CA,Far West,0.2956,31,23337,36319,0.8338,0.919,0.3143
+127741,University of Northern Colorado,public,Greeley,CO,Rocky Mountains,0.9084,23,8448,24165,0.5222,0.7228,0.443
+104179,University of Arizona,public,Tucson,AZ,Southwest,0.8459,25,33715,27417,0.6471,0.8321,0.3558
+482149,Augusta University,public,Augusta,GA,Southeast,0.7593,23,5241,18844,0.3981,0.7189,0.4814
+151324,Indiana State University,public,Terre Haute,IN,Great Lakes,0.8957,NA,9603,22318,0.4131,0.6521,0.5669
+226152,Texas A & M International University,public,Laredo,TX,Southwest,0.5415,18,7189,13238,0.469,0.7861,0.4003
+141334,University of West Georgia,public,Carrollton,GA,Southeast,0.593,20,9742,22875,0.4522,0.6907,0.5687
+214704,Pennsylvania State University-Penn State Berks,public,Reading,PA,Mid East,NA,NA,0,NA,NA,NA,NA
+179557,Southeast Missouri State University,public,Cape Girardeau,MO,Plains,0.8619,NA,8000,19521,0.4972,0.7534,0.4188
+187444,William Paterson University of New Jersey,public,Wayne,NJ,Mid East,0.7517,NA,8463,24539,0.5531,0.6932,0.6035
+185129,New Jersey City University,public,Jersey City,NJ,Mid East,0.9464,NA,5962,24875,0.4055,0.7341,0.447
+174075,University of Minnesota-Crookston,public,Crookston,MN,Plains,0.6844,NA,1839,23290,0.5,0.717,0.352
+178396,University of Missouri-Columbia,public,Columbia,MO,Plains,0.8073,26,21933,26337,0.7131,0.8789,0.3804
+139311,Clayton  State University,public,Morrow,GA,Southeast,0.5114,NA,5453,17676,0.3004,0.7132,0.4986
+214713,Pennsylvania State University-Penn State Harrisburg,public,Middletown,PA,Mid East,NA,NA,0,NA,NA,NA,NA
+228802,The University of Texas at Tyler,public,Tyler,TX,Southwest,0.8319,24,6616,20371,0.4186,0.7075,0.3446
+176017,University of Mississippi,public,University,MS,Southeast,0.8814,25,16932,25223,0.6581,0.8685,0.3624
+156125,Wichita State University,public,Wichita,KS,Plains,0.917,24,11199,19593,0.5016,0.6863,0.4517
+161244,University of Maine at Machias,public,Machias,ME,New England,NA,NA,434,17601,0.2959,0.494,0.3526
+196185,SUNY Oneonta,public,Oneonta,NY,Mid East,0.5604,24,6046,24862,0.7596,0.8029,0.5959
+167288,Massachusetts College of Liberal Arts,public,North Adams,MA,New England,0.8164,22,1278,24205,0.6125,0.7237,0.7251
+169798,Eastern Michigan University,public,Ypsilanti,MI,Great Lakes,0.7406,22,14381,24620,0.4607,0.7048,0.5344
+157401,Murray State University,public,Murray,KY,Southeast,0.8239,25,6796,20742,0.5466,0.7927,0.4336
+159382,Louisiana State University-Alexandria,public,Alexandria,LA,Southeast,0.5628,20,2893,14608,0.2831,0.5763,0.4646
+210146,Southern Oregon University,public,Ashland,OR,Far West,0.782,22,3787,17015,0.4579,0.6992,0.663
+234827,Central Washington University,public,Ellensburg,WA,Far West,0.8492,21,10946,22827,0.5756,0.7078,0.486
+180461,Montana State University,public,Bozeman,MT,Rocky Mountains,0.8194,24,14402,21840,0.5677,0.7654,0.395
