@@ -785,6 +785,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2064,7 +2071,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2120,74 +2127,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#publications">Publications</a></li>
-<li><a href="#r-packages">R packages</a></li>
+<li><a href="#publications" id="toc-publications">Publications</a></li>
+<li><a href="#r-packages" id="toc-r-packages">R packages</a></li>
 </ul>
 </nav>
 </div>
-<p>I am an applied statistician and data scientist whose scholarly
-activities include incorporating realistic computation and visualization
-into the classroom, developing better visualizations to explore complex
-models, and R package development.</p>
+<p>I am an applied statistician and data scientist whose scholarly activities include incorporating realistic computation and visualization into the classroom, developing better visualizations to explore complex models, and R package development.</p>
 <h3 id="publications">Publications</h3>
 <ul>
-<li><p>Loy, A. (2021). Bringing Visual Inference to the Classroom.
-Journal of Statistics and Data Science Education 29(2).</p></li>
-<li><p>Maurer, K., Osthus, D., and Loy, A. (2019). A Tale of Four
-Cities: Exploring the Soul of State College, Detroit, Milledgeville, and
-Biloxi. Computational Statistics 34(4).</p></li>
-<li><p>Loy, A., Kuiper, S., and Chihara, L. (2019). Supporting Data
-Science in the Statistics Curriculum. Journal of Statistics Education
-27(1).</p></li>
-<li><p>Almeida, A., Loy, A., and Hofmann, H. (2018). ggplot2 Compatible
-Quantile-Quantile Plots in R. The R Journal 10(2).</p></li>
-<li><p>Loy, A., Hofmann, H., and Cook, D. (2017). Model Choice and
-Diagnostics for Linear Mixed-Effects Models Using Statistics on Street
-Corners. Journal of Computational and Graphical Statistics 26(3), 478–
-492.</p></li>
-<li><p>Loy, A., Follett, L., and Hofmann, H. (2016). Variations of Q-Q
-Plots—The Power of our Eyes! The American Statistician 70(2),
-202–214.</p></li>
-<li><p>Loy, A. and Hofmann, H. (2015). Are You Normal? The Problem of
-Confounded Residual Structures in Hierarchical Linear Models. Journal of
-Computational and Graphical Statistics 24(4), 1191–1209.</p></li>
-<li><p>Wright Morton, L., Hobbs, J., Arbuckle, J. G., Jr., and Loy, A.
-(2015). Upper Midwest Climate Variations: Farmer Responses to Excess
-Water Risks. Journal of Environmental Quality 44(3), 1191–1209.</p></li>
-<li><p>Arbuckle, J. G., Jr., Hobbs, J., Loy, A., Wright Morton, L.,
-Prokopy, L. S., and Tyndall, J. (2014). Under- standing Corn Belt Farmer
-Perspectives on Climate Change to Inform Engagement Strategies for
-Adaptation and Mitigation. Journal of Soil and Water Conservation 69(6),
-505–516.</p></li>
-<li><p>Loy, A. and Hofmann, H. (2014). HLMdiag: A Suite of Diagnostics
-for Hierarchical Linear Models in R. Journal of Statistical Software
-56(5), 1–28.</p></li>
-<li><p>Arbuckle, J. G., Jr., Prokopy, L. S., Haigh, T., Hobbs, J.,
-Knoot, T., Knutson, C., Loy, A., Mase, A. S., McGuire, J., Wright
-Morton, L., Tyndall, J., and Widhalm, M. (2013). Climate Change Beliefs,
-Concerns, and Attitudes toward Adaptation and Mitigation among Farmers
-in the Midwestern United States. Climatic Change 117(4),
-943–950.</p></li>
-<li><p>Loy, A. and Hofmann, H. (2013). Diagnostic Tools for Hierarchical
-Linear Models. Wiley Interdisciplinary Reviews: Computational Statistics
-5(1), 48–61.</p></li>
-<li><p>Hofmann, H., Cook, D., Kielion, C., Schloerke, B., Hobbs, J.,
-Loy, A., Mosley, L., Rockoff, D., Huang, Y., Wrolstad, D., and Yin, T.
-(2011). Delayed, Canceled, On Time, Boarding . . . Flying in the USA.
-Journal of Computational and Graphical Statistics 20(2),
-287–290.</p></li>
+<li><p>Loy, A. (2021). Bringing Visual Inference to the Classroom. Journal of Statistics and Data Science Education 29(2).</p></li>
+<li><p>Maurer, K., Osthus, D., and Loy, A. (2019). A Tale of Four Cities: Exploring the Soul of State College, Detroit, Milledgeville, and Biloxi. Computational Statistics 34(4).</p></li>
+<li><p>Loy, A., Kuiper, S., and Chihara, L. (2019). Supporting Data Science in the Statistics Curriculum. Journal of Statistics Education 27(1).</p></li>
+<li><p>Almeida, A., Loy, A., and Hofmann, H. (2018). ggplot2 Compatible Quantile-Quantile Plots in R. The R Journal 10(2).</p></li>
+<li><p>Loy, A., Hofmann, H., and Cook, D. (2017). Model Choice and Diagnostics for Linear Mixed-Effects Models Using Statistics on Street Corners. Journal of Computational and Graphical Statistics 26(3), 478– 492.</p></li>
+<li><p>Loy, A., Follett, L., and Hofmann, H. (2016). Variations of Q-Q Plots—The Power of our Eyes! The American Statistician 70(2), 202–214.</p></li>
+<li><p>Loy, A. and Hofmann, H. (2015). Are You Normal? The Problem of Confounded Residual Structures in Hierarchical Linear Models. Journal of Computational and Graphical Statistics 24(4), 1191–1209.</p></li>
+<li><p>Wright Morton, L., Hobbs, J., Arbuckle, J. G., Jr., and Loy, A. (2015). Upper Midwest Climate Variations: Farmer Responses to Excess Water Risks. Journal of Environmental Quality 44(3), 1191–1209.</p></li>
+<li><p>Arbuckle, J. G., Jr., Hobbs, J., Loy, A., Wright Morton, L., Prokopy, L. S., and Tyndall, J. (2014). Under- standing Corn Belt Farmer Perspectives on Climate Change to Inform Engagement Strategies for Adaptation and Mitigation. Journal of Soil and Water Conservation 69(6), 505–516.</p></li>
+<li><p>Loy, A. and Hofmann, H. (2014). HLMdiag: A Suite of Diagnostics for Hierarchical Linear Models in R. Journal of Statistical Software 56(5), 1–28.</p></li>
+<li><p>Arbuckle, J. G., Jr., Prokopy, L. S., Haigh, T., Hobbs, J., Knoot, T., Knutson, C., Loy, A., Mase, A. S., McGuire, J., Wright Morton, L., Tyndall, J., and Widhalm, M. (2013). Climate Change Beliefs, Concerns, and Attitudes toward Adaptation and Mitigation among Farmers in the Midwestern United States. Climatic Change 117(4), 943–950.</p></li>
+<li><p>Loy, A. and Hofmann, H. (2013). Diagnostic Tools for Hierarchical Linear Models. Wiley Interdisciplinary Reviews: Computational Statistics 5(1), 48–61.</p></li>
+<li><p>Hofmann, H., Cook, D., Kielion, C., Schloerke, B., Hobbs, J., Loy, A., Mosley, L., Rockoff, D., Huang, Y., Wrolstad, D., and Yin, T. (2011). Delayed, Canceled, On Time, Boarding . . . Flying in the USA. Journal of Computational and Graphical Statistics 20(2), 287–290.</p></li>
 </ul>
 <h3 id="r-packages">R packages</h3>
-<div
-style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;">
+<div style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;">
 <div>
 <div class="layout-chunk" data-layout="l-gutter">
 <p><img src="https://raw.githubusercontent.com/aloy/HLMdiag/master/man/figures/logo.png" width="10%" /></p>
 </div>
 </div>
 <div>
-<p><br> Adam Loy, Jaylin Lowe, Jack Moran. HLMdiag: Diagnostic Tools for
-Hierarchical (Multilevel) Linear Models. R package version 0.5.0.</p>
+<p><br>
+Adam Loy, Jaylin Lowe, Jack Moran. HLMdiag: Diagnostic Tools for Hierarchical (Multilevel) Linear Models. R package version 0.5.0.</p>
 </div>
 <div>
 <div class="layout-chunk" data-layout="l-gutter">
@@ -2195,9 +2166,8 @@ Hierarchical (Multilevel) Linear Models. R package version 0.5.0.</p>
 </div>
 </div>
 <div>
-<p><br> Adam Loy, Jenna Korobova, Spenser Steele. lmeresampler:
-Bootstrap Methods for Nested Linear Mixed-Effects Models. R package
-version 0.2.0.</p>
+<p><br>
+Adam Loy, Jenna Korobova, Spenser Steele. lmeresampler: Bootstrap Methods for Nested Linear Mixed-Effects Models. R package version 0.2.0.</p>
 </div>
 <div>
 <div class="layout-chunk" data-layout="l-gutter">
@@ -2205,13 +2175,11 @@ version 0.2.0.</p>
 </div>
 </div>
 <div>
-<p><br> Alexandre Almeida, Adam Loy, Heike Hofmann. qplotr:
-Quantile-Quantile Plot Extensions for ggplot2. R package version
-0.0.5.</p>
+<p><br>
+Alexandre Almeida, Adam Loy, Heike Hofmann. qplotr: Quantile-Quantile Plot Extensions for ggplot2. R package version 0.0.5.</p>
 </div>
 </div>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
