@@ -1,0 +1,52 @@
+class_year,prior_stats,credits,dog_cat,height,smoke,handedness,drink,coffee,siblings,major,guess_religion,religious,political_comfort,marijuana,athelete,exercise,tv
+First year,Yes,18,Dog person,74,No,Right handed,5,0,3,non-science,40,Religious but not actively practicing,"Rarely, if ever comfortable",Yes,Yes,6,5
+First year,No,18,Cat person,70,No,Right handed,0,0,2,non-science,60,Religious but not actively practicing,"Rarely, if ever comfortable",Yes,Yes,12,2
+First year,No,18,Dog person,67,No,Left handed,0,2,5,non-science,50,Religious but not actively practicing,Almost always comfortable,Yes,Yes,12,0
+First year,No,18,Neither,67,No,Right handed,2,1,1,non-science,30,Not religious,Almost always comfortable,Yes,No,2,1
+First year,Yes,18,Neither,65,No,Right handed,1,2,2,non-science,20,Religious but not actively practicing,Almost always comfortable,Yes,No,6,3
+First year,Yes,18,Dog person,61,No,Right handed,1,0,1,non-science,30,Not religious,Almost always comfortable,Yes,No,10,4
+First year,Yes,19,Cat person,71,No,Right handed,0,0,2,science,50,Not religious,Almost always comfortable,Don't know,No,2.5,0
+First year,No,21,Dog person,64,No,Right handed,0,0,2,non-science,50,Religious but not actively practicing,Almost always comfortable,Yes,No,6,11
+First year,Yes,18,Neither,69,No,Right handed,0,1,2,non-science,40,Religious and actively practicing my religion,Almost always comfortable,Don't know,Yes,12,3
+First year,No,18,Cat person,71,No,Right handed,0,0,2,non-science,60,Not religious,Sometime comfortable,Yes,No,0,2
+First year,No,19,Cat person,65,Occassionally,Right handed,2,2,1,non-science,40,Not religious,Almost always comfortable,Yes,No,3,1
+Senior,No,18,Cat person,67,No,Right handed,0,2,1,science,73,Not religious,Almost always comfortable,Don't know,No,0,0
+Junior,No,18,Cat person,70,No,Right handed,6,0,2,science,40,Religious but not actively practicing,"Rarely, if ever comfortable",No,No,2,4
+First year,Yes,19,Dog person,6,No,Right handed,0,2,1,non-science,20,Not religious,Almost always comfortable,No,No,6,10
+Sophomore,Yes,20,Dog person,76.8,No,Right handed,0,1,2,science,30,Not religious,Almost always comfortable,Yes,No,6,2
+First year,Yes,18,Dog person,74,Occassionally,Right handed,15,0,1,non-science,65,Religious and actively practicing my religion,Sometime comfortable,Yes,Yes,12,6
+First year,No,19,Cat person,67,No,Right handed,2,0,2,non-science,45,Not religious,Almost always comfortable,Yes,No,4,0
+First year,Yes,19,Cat person,68,No,Right handed,0,0,1,science,35,Religious but not actively practicing,Almost always comfortable,Don't know,No,3,1
+First year,Yes,20,Dog person,68,No,Right handed,0,0,3,science,16,Not religious,Sometime comfortable,Yes,No,2,6
+First year,No,6,Dog person,65,No,Right handed,0,0,2,non-science,15,Not religious,Sometime comfortable,Yes,No,3,5
+First year,No,20,Cat person,62,No,Right handed,1,1,0,science,35,Religious but not actively practicing,Almost always comfortable,Yes,No,8,0
+First year,No,21,Dog person,64,No,Right handed,1,0,1,science,50,Religious but not actively practicing,Almost always comfortable,Yes,Yes,12,1
+First year,No,19,Dog person,70.8661,No,Right handed,0,1,0,science,39,Not religious,Sometime comfortable,No,Yes,8,5
+Sophomore,Yes,18,Dog person,71.5,No,Right handed,0,0,1,science,15,Not religious,Almost always comfortable,Yes,No,5,0
+First year,No,18,Neither,74,No,Right handed,4,1,2,science,68,Not religious,Sometime comfortable,Yes,Yes,20,2
+First year,Yes,18,Cat person,62,No,Right handed,0,0,1,science,15,Not religious,Sometime comfortable,No,No,2,4
+First year,No,22,Neither,70,No,Right handed,0,0,2,non-science,45,Not religious,Sometime comfortable,Yes,No,10,1
+First year,Yes,18,Cat person,68,Occassionally,Right handed,0,3,0,non-science,20,Not religious,Almost always comfortable,Yes,No,5,5
+First year,No,20,Dog person,65,Occassionally,Right handed,5,2,0,non-science,35,Religious but not actively practicing,Sometime comfortable,Yes,No,2,10
+Junior,No,18,Dog person,74,Daily,Right handed,0,1,1,science,45,Not religious,Sometime comfortable,Yes,No,0,8
+First year,Yes,18,Cat person,74,No,Right handed,0,0,0,non-science,20,Religious but not actively practicing,Sometime comfortable,Yes,No,6,4
+Sophomore,Yes,20,Dog person,71,No,Right handed,14,1,1,science,25,Religious but not actively practicing,"Rarely, if ever comfortable",Yes,Yes,14,2
+Sophomore,Yes,18,Dog person,65,No,Right handed,0,0,3,science,65,Religious but not actively practicing,Sometime comfortable,Yes,No,5,7
+Senior,Yes,23,Dog person,70,Daily,Right handed,8,4,3,science,35,Religious but not actively practicing,Sometime comfortable,Yes,Yes,5,10
+First year,No,21,Cat person,60,No,Right handed,0,1,2,non-science,60,Religious but not actively practicing,Almost always comfortable,Yes,No,3,1
+Sophomore,No,18,Dog person,70,No,Right handed,4,0,2,science,35,Religious but not actively practicing,"Rarely, if ever comfortable",Yes,No,9,2
+Sophomore,No,18,Dog person,74,No,Left handed,1,0,2,non-science,60,Religious but not actively practicing,"Rarely, if ever comfortable",Yes,No,10,10
+First year,No,18,Dog person,65,No,Right handed,6,1,1,science,43,Not religious,Almost always comfortable,Yes,No,2,0
+First year,No,18,Dog person,70,Occassionally,Right handed,5,0,2,science,46,Religious but not actively practicing,Almost always comfortable,Yes,No,10,2
+First year,Yes,18,Neither,70,No,Right handed,0,0,0,science,30,Religious but not actively practicing,Sometime comfortable,Yes,No,1,6
+Sophomore,No,18,Dog person,69,No,Right handed,2,0,3,non-science,35,Religious but not actively practicing,Almost always comfortable,Yes,Yes,14,4
+First year,No,18,Dog person,NA,No,Right handed,4,1,1,science,30,Religious but not actively practicing,Sometime comfortable,Yes,No,6,1
+Sophomore,No,18,Dog person,71,No,Right handed,0,0,1,science,78,Not religious,Almost always comfortable,Don't know,No,10,4
+First year,Yes,18,Dog person,68,No,Right handed,4,0,1,science,61,Not religious,Almost always comfortable,Yes,No,4,1
+First year,Yes,18,Neither,72,Daily,Right handed,0,8,1,non-science,12,Not religious,"Rarely, if ever comfortable",Yes,No,8,12
+Sophomore,No,18,Dog person,61,No,Left handed,0,0,0,science,30,Religious but not actively practicing,Sometime comfortable,Don't know,No,1,2
+First year,No,20,Dog person,68,No,Right handed,6,1,1,non-science,60,Not religious,Almost always comfortable,Yes,No,5,4
+First year,No,18,Cat person,70,No,Left handed,0,0,4,non-science,80,Not religious,Sometime comfortable,Yes,No,10,4
+First year,No,18,Dog person,71,No,Right handed,4,3,1,science,65,Religious but not actively practicing,Sometime comfortable,Don't know,NA,12,2
+Sophomore,No,18,Dog person,63.5,No,Right handed,0,2,4,science,40,Religious but not actively practicing,Sometime comfortable,Don't know,No,2,4
+First year,No,18,Dog person,72,No,Right handed,0,0,2,non-science,37,Not religious,Almost always comfortable,Don't know,No,7,14
