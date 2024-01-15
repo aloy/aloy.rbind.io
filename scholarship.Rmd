@@ -16,6 +16,8 @@ I am an applied statistician and data scientist whose scholarly activities inclu
 
 ### Publications
 
+- Loy, A. and Korobova, J. (2023). Bootstrapping Clustered Data in R Using lmeresampler. The R Journal 14(4).
+
 - Loy, A. (2021). Bringing Visual Inference to the Classroom. Journal of Statistics and Data Science Education 29(2).
 
 - Maurer, K., Osthus, D., and Loy, A. (2019). A Tale of Four Cities: Exploring the Soul of State College, Detroit, Milledgeville, and Biloxi. Computational Statistics 34(4).
