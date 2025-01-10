@@ -9,19 +9,18 @@ knitr::opts_chunk$set(echo = FALSE)
 I teach statistics and data science courses at all levels at Carleton, and I strive to equip my students with the skills to learn from data so that they can make informed decisions in the presence of uncertainty.
 
 
-### 2023-2024 academic year
+### 2024-2025 academic year
 
 #### Fall 
 
-- Math 240: Probability
-- Stat 285: Statistical consulting
+- Stat 270: Statistical Learning
+- Stat 399: Seminar on Statistical Computing
 
 #### Winter
 
-- Stat 230: Applied regression
-- Stat 285: Statistical consulting
+- Math 240: Probability
+- Stat 250: Introduction to Statistical Inference
 
 #### Spring
 
-- Stat 120: Introduction to statistics
-- Stat 285: Statistical consulting
+On Sabbatical

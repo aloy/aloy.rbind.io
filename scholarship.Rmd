@@ -16,6 +16,8 @@ I am an applied statistician and data scientist whose scholarly activities inclu
 
 ### Publications
 
+- Curley, B., Downey, J., Kinnaird, K., Loy, A., and Reyes, E. (2024). Questions (and Answers) for Non-Traditional Grading. *Journal of Statistics and Data Science Education* 32(3), 283–295.
+
 - Loy, A. and Korobova, J. (2023). Bootstrapping Clustered Data in R Using lmeresampler. The R Journal 14(4).
 
 - Loy, A. (2021). Bringing Visual Inference to the Classroom. Journal of Statistics and Data Science Education 29(2).
